@@ -13,5 +13,7 @@ Compiler/Extensions:
 
 
 This portfolio contains all the exercises proposed by Aluras’s classes:
+
 https://cursos.alura.com.br/course/introducao-a-programacao-com-c-parte-1
+
 https://cursos.alura.com.br/course/introducao-a-programacao-com-c-parte-2
