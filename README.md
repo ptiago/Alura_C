@@ -1,6 +1,8 @@
 # Alura_C
 Project portfolio using C Language
+
 IDE: Vs Code - version 1.86
+
 Compiler/Extensions:
 
 •	danielpinto8zz6.c-cpp-compile-run
